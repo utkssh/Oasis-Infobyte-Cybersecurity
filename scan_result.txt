@@ -1,0 +1,12 @@
+Nmap scan report for 192.168.34.238
+Host is up.
+Not shown: 995 closed tcp ports (reset)
+
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1521/tcp open  oracle
+5500/tcp open  hotline
+
+Nmap done -- 1 IP address (1 host up) scanned in 0.89 seconds
